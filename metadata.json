@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Room Makeover",
+  "description": "Upload a photo of any room, mask an area you want to change, and describe your desired edit with a text prompt. The app uses AI to magically transform your space.",
+  "requestFramePermissions": []
+}
